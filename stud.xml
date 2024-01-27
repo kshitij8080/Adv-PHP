@@ -1,0 +1,17 @@
+<student>
+  <info>
+    <rno>101</rno>
+    <name>om</name>
+    <per>78.99</per>
+  </info>
+  <info>
+    <rno>102</rno>
+    <name>sai</name>
+    <per>56.99</per>
+  </info>
+  <info>
+    <rno>103</rno>
+    <name>ram</name>
+    <per>88.99</per>
+  </info>
+</student>

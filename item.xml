@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="item.css"?>
+<item>
+  <iteminfo>
+    <iname>pen</iname>
+    <price>10</price>
+    <qty>40</qty>
+  </iteminfo>
+    <iteminfo>
+    <iname>pencil</iname>
+    <price>30</price>
+    <qty>400</qty>
+  </iteminfo>
+    <iteminfo>
+    <iname>book</iname>
+    <price>60</price>
+    <qty>90</qty>
+  </iteminfo>
+    <iteminfo>
+    <iname>compas</iname>
+    <price>50</price>
+    <qty>20</qty>
+  </iteminfo>
+    <iteminfo>
+    <iname>scale</iname>
+    <price>10</price>
+    <qty>400</qty>
+  </iteminfo>
+</item>

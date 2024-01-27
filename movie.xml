@@ -1,0 +1,17 @@
+<movie>
+  <category type="action">
+    <movieTitle>Hanuman</movieTitle>
+    <actorname>om</actorname>
+    <releaseyear>2024</releaseyear>
+  </category>
+  <category type="Horror">
+    <movieTitle>NARUTO</movieTitle>
+    <actorname>Itachi</actorname>
+    <releaseyear>2005</releaseyear>
+  </category>
+  <category type="classical">
+    <movieTitle>SALAR</movieTitle>
+    <actorname>sai</actorname>
+    <releaseyear>2024</releaseyear>
+  </category>  
+</movie>

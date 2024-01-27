@@ -1,0 +1,17 @@
+<cricketteam>
+  <team country="india">
+    <player>Ruturaj Gaikwad</player>
+    <runs>4999</runs>
+    <wicket>0</wicket>
+  </team>
+  <team country="Pakistan">
+    <player>shoeb akhtar</player>
+    <runs>1278</runs>
+    <wicket>78</wicket>
+  </team>
+  <team country="india">
+    <player>virat kohali</player>
+    <runs>6999</runs>
+    <wicket>7</wicket>
+  </team>
+</cricketteam> 

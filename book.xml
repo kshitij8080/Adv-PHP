@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookinfo>
+  <book>
+    <bookcode>101</bookcode>
+    <bookname>java</bookname>
+    <author>om</author>
+    <year>2024</year>
+    <price>200</price>
+  </book>
+  <book>
+    <bookcode>102</bookcode>
+    <bookname>php</bookname>
+    <author>sai</author>
+    <year>2022</year>
+    <price>250</price>
+  </book>
+</bookinfo>
